@@ -18,7 +18,6 @@ function generateKodeAlam(nama) {
     "alam roh",
     "alam jin",
     "alam malaikat",
-    "alam setan",
     "alam dewa",
     "alam manusia",
     "alam binatang",
